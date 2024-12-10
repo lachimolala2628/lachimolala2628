@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I’m Ayush Kumar, a 19-year-old Creative Frontend Developer hailing from New Delhi, India. It’s true — I’m passionate about my craft and work as a freelancer. My expertise lies in transforming designs into pixel-perfect, high-performance, accessible, and responsive web applications. I thrive on the entire development process, which fuels my enthusiasm and keeps me deeply engaged in my projects. Outside of my professional life, I enjoy diving into a good book or immersing myself in music,  which often inspires my creativity and helps me recharge.
+Hello! I’m the Ayush Kumar. I’m a 19-year-old Creative Frontend Developer from New Delhi. Yes, I definitely love what I do and I’m a freelancer. I am a developer who transforms a design into a pixel-perfect, high-performance, accessible, and responsive web app. I love the whole development process, which is what keeps me interested and glued to my work. When I’m not working, I love to relax by reading a good book or listening to music. It boosts my creativity and helps me recharge. 
 
 
 ## 🌐 Socials:
