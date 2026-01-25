@@ -23,5 +23,3 @@ Tools
 – Learning new technologies  
 – Building projects  
 – Listening to music  
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lachimolala2628&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
