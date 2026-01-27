@@ -1,25 +1,16 @@
 ## Hey there!
+I’m Ayush, a frontend developer building performant, design-driven experiences.
 
-I’m Ayush, a frontend developer building performant, design-driven web experiences.
+I work on production-ready interfaces with a strong focus on clean UI architecture,
+accessibility, and performance. Comfortable collaborating with teams and shipping
+independently end-to-end.
 
-My main tools are React, Next.js, TypeScript, JavaScript, and Tailwind CSS.
-I focus on clean UI architecture, accessibility, and performance.
+Frontend – React, Next.js, TypeScript, JavaScript  
+Styling – Tailwind CSS, CSS, Sass  
+UI & Motion – Framer Motion, GSAP, Three.js  
+Tools – Git, GitHub, Figma, Vite
 
-Frontend
-– React, Next.js, TypeScript, JavaScript
-
-Styling
-– Tailwind CSS, CSS, Sass
-
-UI & Motion
-– Framer Motion, GSAP, Three.js
-
-Tools
-– Git, GitHub, Figma, Vite
-
-### Fun Facts:
-
+### Outside of work:
 – Reading books  
-– Learning new technologies  
-– Building projects  
-– Listening to music  
+– Building side projects  
+– Listening to music
