@@ -6,6 +6,7 @@ accessibility, and performance. Comfortable collaborating with teams and shippin
 independently end-to-end.
 
 Frontend – React, Next.js, TypeScript, JavaScript  
+Backend - Node.js, Express.js, MongoDB
 Styling – Tailwind CSS, CSS, Sass  
 UI & Motion – Framer Motion, GSAP, Three.js  
 Tools – Git, GitHub, Figma, Vite
